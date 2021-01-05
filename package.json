@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "@types/es6-promise": "^3.3.0",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "cherio": "^1.0.0-rc.2",
     "csv-writer": "^1.4.0",
     "puppeteer": "^1.14.0",
